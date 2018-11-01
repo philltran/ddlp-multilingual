@@ -2,6 +2,9 @@
   You can use import statements to include partials:
  */
 @import "imports/reset.css";
+@import "elements/elements.css";
+@import "components/components.css";
+@import "tachyons/tachyons.css";
 
 
 /*

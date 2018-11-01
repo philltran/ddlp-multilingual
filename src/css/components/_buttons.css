@@ -1,0 +1,21 @@
+.button {
+  background-color: #F5A711;
+  color: white;
+  font-weight: 600;
+  padding: 13px 55px 13px 15px;
+}
+.button:hover {
+  background-color: #E1940F;
+}
+
+.cta-arrow {
+  transition: background 0.2s ease-in-out;
+  background: #f8a600 url("/img/arrow_white.svg") scroll right 15px center no-repeat;
+  background-size: 16px 16px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  line-height: 16px;
+  text-decoration: none;
+}
